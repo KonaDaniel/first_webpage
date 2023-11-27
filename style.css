@@ -1,0 +1,14 @@
+body{
+    background-color: cyan;
+}
+
+button{
+   
+    height: 100px;
+    width: 400px;
+font-size: 30px;
+font-style: oblique;
+color: rgb(255, 255, 255);
+background-color: rgb(255, 0, 0);
+}
+
